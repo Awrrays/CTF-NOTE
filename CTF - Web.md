@@ -1,7 +1,5 @@
 # CTF Note => Web
 
-[toc]
-
 ## 代码泄露
 
 ```sh
